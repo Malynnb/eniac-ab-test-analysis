@@ -1,6 +1,3 @@
-# eniac-ab-test-analysis
-A/B testing analysis of website button performance
-
 
 # Eniac A/B Test Analysis
 
