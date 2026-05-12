@@ -28,6 +28,8 @@ Version C is the best-performing variant and should be implemented.
 ## Tools Used
 - Python (pandas, matplotlib, scipy)
 - Google Colab
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Business Impact
 Improving the button design can increase user engagement significantly.  
