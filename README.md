@@ -28,3 +28,15 @@ Version C is the best-performing variant and should be implemented.
 ## Tools Used
 - Python (pandas, matplotlib, scipy)
 - Google Colab
+
+## Business Impact
+Improving the button design can increase user engagement significantly.  
+Even small improvements in CTR at scale can lead to higher conversions and revenue.
+
+## Recommendation
+Implement Version C (White "SEE DEALS") as the default button design.
+
+##  What I Learned
+- How to design and analyze an A/B test
+- How to use chi-square testing for categorical data
+- How to interpret statistical significance in business decisions
