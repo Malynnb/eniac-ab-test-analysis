@@ -86,3 +86,5 @@ The results suggest that both visual design and wording influence user behavior,
 * Applying Chi-Square testing to categorical data
 * Interpreting statistical significance in a business context
 * Translating analytical results into actionable recommendations
+
+Testing YOLO achievement
